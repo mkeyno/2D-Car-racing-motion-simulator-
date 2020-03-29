@@ -17,12 +17,12 @@ Following is the CAD design along with final fabrication
  ![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/cad.JPG) 
  ![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/build.jpg) 
 
--   ![link to fly on YouTube](https://www.youtube.com/watch?v=bicupEW7gRw)
-
 ### Firmware
 A ESP8266 core selected for Wifi Link and Server which can run in  access point. Any gaming platform such as laptop, smart phone, VR, can connect to the board with BT & Wifi Link
 Special Webpage has been designed for FFB configuration and BT & Wifi setting. This Server can emulate whole keyboard for change of control the any game with keyboard
 Following is the setting previews of the Webpage
-![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/main.jpg) 
-![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/keyboard.jpg) 
+-
+-
+![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/main.png) 
+![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/keyboard.png) 
 ![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/bt.png) 
