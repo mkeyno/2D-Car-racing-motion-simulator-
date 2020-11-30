@@ -13,10 +13,10 @@ The hardware consist of BT and WiFi link to the Game platform, Force evaluator b
 Two 24 volt DC electricemulate motor installed on Racing Rig to meulate the Pith & Roll motion
 Two Pedals for emulation the Gas & Break along with Car Steer and setting buttons installed on the Rig
 Following is the CAD design along with final fabrication
-<img src="res/cad.JPG" width="450" height="350">
+
+<img src="res/cad.JPG" width="450" height="350">,,
 <img src="res/build.jpg" width="450" height="350">
- ![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/cad.JPG) 
- ![-](https://github.com/mkeyno/2D-Car-racing-motion-simulator-/blob/master/res/build.jpg) 
+
 
 ### Firmware
 A ESP8266 core selected for Wifi Link and Server which can run in  access point. Any gaming platform such as laptop, smart phone, VR, can connect to the board with BT & Wifi Link
